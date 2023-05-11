@@ -4,12 +4,12 @@ This website's aim is to enable the user to visualize and simulate the protocol�
 Welcome to the documentation for our website, which teaches CSMA/CD. Our website is aimed to provide an easy-to-understand introduction to the ideas of CSMA/CD. This lab website will enable the student to visualize and simulate the protocol's working from the user node's perspective.
 
 Website link:  
-Repository Link: 
+Repository Link: https://github.com/TANUJA-RA/CSMA-CD.git
 
 How to Run?
 
   •	Clone the repository: Use the "git clone" command to clone the repository to your local machine. 
-For example, if the repository URL is "  ", you can run the command "git clone " in your terminal to clone the repository, and you're all set to start.
+For example, if the repository URL is "https://github.com/TANUJA-RA/CSMA-CD.git", you can run the command "git clone https://github.com/TANUJA-RA/CSMA-CD.git" in your terminal to clone the repository, and you're all set to start.
 
   •	After cloning, you can run the csmacdexplo1.html file, which will direct you to the website's home page.
 
