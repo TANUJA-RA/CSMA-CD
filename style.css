@@ -1,0 +1,116 @@
+.btn-danger{
+    width: 300px;
+    height: 45px;
+}
+
+.btn-danger1{
+    width: 300px;
+    height: 45px;
+    background-color: rgb(240, 220, 103);
+}
+
+.body{
+    background-color: rgb(246, 235, 171);
+}
+
+.topic{
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    width: 100%;
+    padding: 10px;
+    background-color:  rgb(240, 220, 103);
+    margin: 0%;
+    text-decoration: none;
+}
+
+.status{
+    border-radius: 5px;
+    border-color: red;
+    background-color: lightpink;
+    width: 100px;
+    height: 35px;
+    border-color: red;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+
+.user{
+    border-radius: 4px;
+    background-color: rgb(93, 93, 167);
+    height: 100%;
+    width: 450px;
+    padding: 4px;
+    justify-content: space-between;
+}
+
+.userbuto1{
+    width: 160px;
+    height: 60px;
+    border-color:white;
+    background-color:  rgb(240, 220, 103);
+    margin: 2px;
+    padding: 2px;
+    border-radius: 4px;
+}
+
+.userbuto2{
+    width: 270px;
+    height: 60px;
+    border-color:rgb(240, 220, 103);
+    background-color: white;
+    margin: 2px;
+    padding: 2px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+userbuto1:hover{
+    background-color: pink;
+}
+userbuto2:hover{
+    background-color: pink;
+}
+
+history{
+    flex: 0.5;
+    height: 500px;
+    width: 400px;
+    background-color: lavender;
+    border-radius: 10px;
+    padding: 10px;
+    overflow-y: scroll;
+    
+}
+/*li a{
+    background-color:rgb(246, 198, 164);
+    text-decoration: none;
+    font-size: 25px;
+    padding: 1%;
+    height: 15px;
+    margin: 1px;
+}*/
+h1{
+    text-decoration: none;
+    font-size: 25px;
+    margin: 1px; 
+    width:100%;   
+}
+
+.backgroundfirstSection{
+    width: 98%;
+    margin: 4px;
+    padding: 10px;
+    font-size: 25px;
+    display: flex;
+}
+.firstHalf{
+    width: 100%;
+}
+.separator {
+    border-right: 1px solid black;
+    height: 100%;
+  }
+.secondHalf{
+    padding: 0px 30px;
+}
