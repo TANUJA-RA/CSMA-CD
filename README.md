@@ -44,7 +44,7 @@ All about Its Working!
 
   •	If the channel was transmitting a frame and we again "Send Frame," it will cause "Collision," and a prompt will show collision occurred.
 
-  •	User have to enter the collision no. to determine the prompt's wait time. 
+  •	User have to enter the collision no. in the prompt to determine wait time(back off). 
 
   •	There is a "History log" which maintains the history of activities that happened.
 
